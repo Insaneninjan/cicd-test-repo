@@ -9,3 +9,4 @@ document.addEventListener("DOMContentLoaded", () => {
 
 document.getElementById("heading").innerText = "Hello World!!!";
 document.getElementById("heading").innerText = "Hello World2";
+document.getElementById("heading").innerText = "Hello World3";
