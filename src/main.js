@@ -8,3 +8,4 @@ document.addEventListener("DOMContentLoaded", () => {
 });
 
 document.getElementById("heading").innerText = "Hello World!!!";
+document.getElementById("heading").innerText = "Hello World2";
